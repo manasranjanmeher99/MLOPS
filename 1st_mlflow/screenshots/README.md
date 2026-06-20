@@ -154,21 +154,16 @@ Run all cells.
 
 ---
 
-## 📸 Project Screenshots
+# 📸 Project Screenshots
 
-### MLflow Dashboard
+## MLflow Dashboard
+![Dashboard](screenshots/Dashboard.png)
 
-![Dashboard](1st_mlflow/screenshots/Dashboard.png)
+## Logged Parameters
+![Parameters](screenshots/Parameters.png)
 
-### Logged Parameters
-
-![Parameters](1st_mlflow/screenshots/Parameters.png)
-
-### Logged Metrics
-
-![Metrics](1st_mlflow/screenshots/Metrics.png)
-
----
+## Logged Metrics
+![Metrics](screenshots/Metrics.png)
 
 ## 🎯 Learning Outcomes
 
