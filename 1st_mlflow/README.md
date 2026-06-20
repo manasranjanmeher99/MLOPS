@@ -158,7 +158,7 @@ Run all cells.
 
 ### MLflow Dashboard
 
-![Dashboard](1st_mlflow/screenshots/Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Logged Parameters
 
