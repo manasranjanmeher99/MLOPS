@@ -158,16 +158,15 @@ Run all cells.
 
 ### MLflow Dashboard
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](1st_mlflow/screenshots/Dashboard.png)
 
 ### Logged Parameters
 
-![Parameters](screenshots/Parameters.png)
+![Parameters](1st_mlflow/screenshots/Parameters.png)
 
 ### Logged Metrics
 
-![Metrics](screenshots/Metrics.png)
-
+![Metrics](1st_mlflow/screenshots/Metrics.png)
 ---
 
 ## 🎯 Learning Outcomes
