@@ -37,8 +37,8 @@ A Logistic Regression model is trained on a synthetic imbalanced classification 
 ```text
 1st_mlflow/
 │
+├── README.md
 ├── 1st_mlflow.ipynb
-│
 └── screenshots/
     ├── Dashboard.png
     ├── Metrics.png
