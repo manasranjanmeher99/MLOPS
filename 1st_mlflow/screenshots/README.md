@@ -167,6 +167,7 @@ Run all cells.
 ### Logged Metrics
 
 ![Metrics](1st_mlflow/screenshots/Metrics.png)
+
 ---
 
 ## 🎯 Learning Outcomes
