@@ -132,7 +132,7 @@ MLflow is used to:
 
 This visualization compares model performance across different classification algorithms.
 
-![Parallel Coordinates Plot](images/parallel_coordinates_plot.png)
+![Parallel Coordinates Plot](images/Parallel_coordinates_plot.png)
 
 ---
 
@@ -148,7 +148,7 @@ Visualize the distribution of numerical data.
 
 Contour visualization showing the relationship between Accuracy and F1-Score.
 
-![Contour Plot](images/contour_plot.png)
+![Contour Plot](images/Contour_plot.png)
 
 ---
 
