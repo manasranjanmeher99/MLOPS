@@ -268,7 +268,7 @@ Run all cells sequentially.
 
 ### 🏷️ Model Registry
 
-```md
+```text
 ![Model Registry](images/model_registry.png)
 ```
 
