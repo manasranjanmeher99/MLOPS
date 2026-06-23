@@ -256,15 +256,15 @@ Run all cells sequentially.
 
 ### 📊 MLflow Models
 
-```
+
 ![MLflow Dashboard](images/models.png)
-```
+
 
 ### 📈 Model Comparison Parallel Plot
 
-```
+
 ![Model Comparison](images/parallel_coordinates_plot.png)
-```
+
 
 ### 🏷️ Model Registry
 
@@ -274,9 +274,9 @@ Run all cells sequentially.
 
 ### 🚀 Final Production 
 
-```
+
 ![Production Deployment](images/final-production-model.png)
-```
+
 
 ---
 
