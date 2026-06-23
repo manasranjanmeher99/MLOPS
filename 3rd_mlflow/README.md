@@ -268,9 +268,9 @@ Run all cells sequentially.
 
 ### 🏷️ Model Registry
 
-```text
+
 ![Model Registry](images/model_registry.png)
-```
+
 
 ### 🚀 Final Production 
 
