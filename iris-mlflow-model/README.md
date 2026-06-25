@@ -212,15 +212,13 @@ Benefits:
 
 ### Logistic Regression Results
 
-```markdown
+
 ![Logistic Regression](screenshots/logistic_regression_results.png)
-```
+
 
 ### Random Forest Results
 
-```markdown
 ![Random Forest](screenshots/random_forest_results.png)
-```
 
 ---
 
